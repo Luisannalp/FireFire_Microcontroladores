@@ -11,4 +11,4 @@ Repositorio del proyecto **FireFire** (vehículo de emergencia / sistema embebid
 | `PCB/` | Esquemáticos, diseño de placas, Gerber y BOM. |
 | `documentacion/` | Requisitos, diagramas, manuales y entregables del proyecto. |
 
-Cada carpeta incluye un `README.md` con su propósito y las convenciones para agregar archivos.
+Cada carpeta incluye un `README.md` con su propósito.
