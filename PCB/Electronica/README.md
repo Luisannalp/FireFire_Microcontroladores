@@ -1,4 +1,4 @@
-# Electrónica
+# PCB
 
 Esta carpeta contiene el diseño de las tarjetas electrónicas del proyecto **FireFire**.
 
