@@ -1,12 +1,11 @@
 # PCB
 
-Esta carpeta contiene el diseño de las tarjetas electrónicas del proyecto **FireFire**.
+Esta carpeta agrupa todo lo relacionado con el hardware electrónico del proyecto **FireFire**.
 
-## Contenido previsto
+## Subcarpetas
 
-- Esquemáticos y diseño de la placa (`.kicad_sch`, `.kicad_pcb`, `.sch`, `.brd`, etc.).
-- Archivos Gerber y de taladrado listos para fabricación.
-- Lista de materiales (BOM) y notas de ensamblaje.
-- Librerías de huellas (footprints) y símbolos propios.
-- Imágenes de referencia del ruteo y del montaje.
+| Carpeta | Descripción |
+| --- | --- |
+| `Electronica/` | Esquemáticos, diseño de la placa, Gerber, BOM y documentación de fabricación. |
 
+Cada subcarpeta incluye su propio `README.md` con las convenciones para agregar archivos.
